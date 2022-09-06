@@ -1,13 +1,5 @@
 # DemoGolangWorkspace
 
-## [gopls](https://github.com/golang/tools/tree/master/gopls)
+## first (1.17 or previous)
 
-## [gotip](https://pkg.go.dev/golang.org/dl/gotip)
-
-`go install golang.org/dl/gotip@latest`
-
-`gotip download`
-
-`gotip version`
-
-`gotip work init`
+## second (1.18 or last)
